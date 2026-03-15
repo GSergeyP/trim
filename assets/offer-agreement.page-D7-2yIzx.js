@@ -1,1 +1,0 @@
-import{r as t,j as e,C as r}from"./index-C5mt71-e.js";const o={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"700px",bgColor:"grey"};function n(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Договор оферты."},[]),e.jsx(r,{tags:"article",attr:o,children:"Offer-agreement"})}const m=n;export{m as Component};
