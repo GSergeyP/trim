@@ -1,1 +1,0 @@
-import{r as t,j as e,C as o}from"./index-CrF4r9VC.js";const s={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"1500px",bgColor:"violet"};function r(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Реквизиты."},[]),e.jsx(o,{tags:"article",attr:s,children:"Requisites"})}const n=r;export{n as Component};
