@@ -1,0 +1,1 @@
+import{r as t,j as o,C as r}from"./index-CrF4r9VC.js";const e={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"400px",bgColor:"red"};function n(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Контакты."},[]),o.jsx(r,{tags:"article",attr:e,children:"Contacts"})}const a=n;export{a as Component};

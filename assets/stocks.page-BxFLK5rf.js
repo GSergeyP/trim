@@ -1,0 +1,1 @@
+import{r as t,j as o,C as r}from"./index-CrF4r9VC.js";const s={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"850px"};function e(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Акции."},[]),o.jsx(r,{tags:"article",attr:s,children:"Stocks"})}const a=e;export{a as Component};

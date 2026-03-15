@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "city": "Пермь",
+  "address": {
+    "district": "Ленинский",
+    "streetName": "Мира",
+    "streetType": "просп",
+    "houseNumber": 73,
+    "officeNumber": 15
+  }
+}
