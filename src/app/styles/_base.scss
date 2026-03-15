@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: normal;
+}
+
+body {
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  @media screen and (max-width: 1920px) {
+    overflow-y: scroll;
+  }
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+}

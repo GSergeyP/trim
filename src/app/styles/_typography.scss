@@ -1,0 +1,33 @@
+@mixin font($font-family, $font-size, $line-height, $letter-spacing) {
+  font-family: $font-family;
+  font-size: $font-size;
+  line-height: $line-height;
+  letter-spacing: $letter-spacing;
+}
+
+.gthm-lght-14 {
+  @include font(GothamPro-Light, 14px, 20px, 0%);
+}
+
+.gthm-rglr-18 {
+  @include font(GothamPro-Regular, 18px, 19.6px, 0%);
+}
+.gthm-rglr-16 {
+  @include font(GothamPro-Regular, 16px, 24px, 0%);
+}
+.gthm-rglr-15 {
+  @include font(GothamPro-Regular, 15px, 19.6px, 0%);
+}
+.gthm-rglr-14 {
+  @include font(GothamPro-Regular, 14px, 19.6px, 0%);
+}
+.gthm-rglr-13 {
+  @include font(GothamPro-Regular, 13px, 19.6px, 0%);
+}
+
+.gthm-bld-16 {
+  @include font(GothamPro-Bold, 16px, 23px, 0%);
+}
+.gthm-bld-15 {
+  @include font(GothamPro-Bold, 15px, 19.6px, 0%);
+}

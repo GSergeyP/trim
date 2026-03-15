@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "city": "Владивосток",
+  "address": {
+    "district": "Ленинский",
+    "streetName": "Мира",
+    "streetType": "просп",
+    "houseNumber": 73,
+    "officeNumber": 15
+  }
+}
