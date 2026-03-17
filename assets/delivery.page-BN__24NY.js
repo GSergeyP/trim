@@ -1,0 +1,1 @@
+import{r as t,j as e,C as r}from"./index-BnV58dal.js";const o={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"700px",bgColor:"blue"};function n(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Доставка."},[]),e.jsx(r,{tags:"article",attr:o,children:"Delivery"})}const a=n;export{a as Component};

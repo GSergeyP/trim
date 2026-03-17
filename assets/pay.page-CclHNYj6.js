@@ -1,0 +1,1 @@
+import{r as t,j as o,C as r}from"./index-BnV58dal.js";const e={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"900px",bgColor:"brown"};function n(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Оплата."},[]),o.jsx(r,{tags:"article",attr:e,children:"Pay"})}const s=n;export{s as Component};

@@ -1,1 +1,0 @@
-import{r as t,j as r,C as o}from"./index-y3CvD1VN.js";const e={margin:"0 auto",width:{xx:"1920px",xl:"100%",lg:"100%",md:"100%",sm:"100%",xs:"100%"},height:"200px",bgColor:"turquoise"};function s(){return t.useLayoutEffect(()=>{document.title="trlm.ru - Автозапчасти. Подбор запчастей."},[]),r.jsx(o,{tags:"article",attr:e,children:"Spare-parts"})}const n=s;export{n as Component};
